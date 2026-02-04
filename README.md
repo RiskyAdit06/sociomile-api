@@ -172,16 +172,6 @@ Route::middleware(['role:admin,agent'])
 
 ---
 
-## 📮 API Testing
-
-- Diuji menggunakan Postman dengan flow:
-  1. Login → ambil access token
-  2. Simpan token ke **Authorization header**
-  3. Akses endpoint protected
-  4. Simulasi token expired → refresh token
-
----
-
 ## ⚠️ Fitur yang Belum Sempat Dikerjakan
 
 | Fitur                   | Keterangan & Alasan                                                                                            |
