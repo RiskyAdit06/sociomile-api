@@ -88,7 +88,7 @@ Route::middleware(['role:admin,agent'])
 | Endpoint      | Admin | Agent |
 | ------------- |:-----:|:-----:|
 | List ticket   | ✅    | ✅    | 
-| Create ticket | ❌    | ❌    | 
+| Create ticket | ✅    | ❌    | 
 | Assign ticket | ✅    | ❌    | 
 | Update status | ✅    | ✅    | 
 | Chat          | ✅    | ✅    |
