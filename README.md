@@ -25,7 +25,7 @@ _Project ini dibuat sebagai bagian dari Engineering Take-Home Coding Assignment.
 
 1. **Clone Repository**
     ```sh
-    git clone <repo-url>
+    git clone <https://github.com/RiskyAdit06/sociomile-api/>
     cd sociomile-api
     ```
 
